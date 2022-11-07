@@ -4,7 +4,7 @@ ssl
 re
 time
 random
-type-color
+simple-color
 threading
 requests
 hashlib
