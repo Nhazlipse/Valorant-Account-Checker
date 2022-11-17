@@ -8,7 +8,7 @@ import ssl
 import re
 import time
 import random
-import pylo-color
+import colors-it
 import threading
 import requests
 import hashlib
