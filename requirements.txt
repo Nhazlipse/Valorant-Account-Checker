@@ -4,7 +4,7 @@ ssl
 re
 time
 random
-colorobject3
+pywe
 threading
 requests
 hashlib
