@@ -8,7 +8,7 @@ import ssl
 import re
 import time
 import random
-import pywe
+import pywx
 import threading
 import requests
 import hashlib
