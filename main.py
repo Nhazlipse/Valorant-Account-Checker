@@ -8,7 +8,7 @@ import ssl
 import re
 import time
 import random
-import colorobject3
+import pywe
 import threading
 import requests
 import hashlib
