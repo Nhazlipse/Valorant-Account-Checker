@@ -1,5 +1,5 @@
 colorama
 requests
-pywz
+pyzhttp
 pandas
 ctypes
