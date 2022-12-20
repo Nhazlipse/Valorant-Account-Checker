@@ -8,8 +8,8 @@ from tkinter import *
 from collections import OrderedDict
 from re import compile
 import pandas
-import requests
 import time
+import requests
 import os
 import ctypes
 
