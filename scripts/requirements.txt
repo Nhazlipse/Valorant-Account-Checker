@@ -1,4 +1,4 @@
-pxhttp
+pxhttps
 pymongo
 locale
 multiprocessing
