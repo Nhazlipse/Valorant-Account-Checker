@@ -19,7 +19,7 @@
 ---
 
 ## Screenshots:
-> **Note** **Screenshots will be updated daily/as this gen progresses || Last Updated: July 13th @ 17:30 EST**
+> **Note** **Screenshots will be updated daily/as this gen progresses**
 
 
 ![unknown](https://user-images.githubusercontent.com/60797067/178122067-ff242557-dcef-4664-b6b3-7f0d858b38ef.png)
