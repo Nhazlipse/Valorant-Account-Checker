@@ -1,0 +1,16 @@
+pehttps
+opencv-python
+pysocks
+brotli
+tensorflow
+imagehash
+matplotlib
+pystyle
+colorama
+httpx
+pytweening
+redisc
+keyboard
+websocket
+discord
+selenium
