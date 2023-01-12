@@ -6,6 +6,7 @@ except: pass
 try: os.system("py -m pip install -r ./data/requirements.txt")
 except: os.system("python -m pip install -r ./data/requirements.txt")
 
+    
 from modules.console import Console
 from modules.session import HttpSession
 from modules.discord import DiscordApi, DiscordWs
