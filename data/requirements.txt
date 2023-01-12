@@ -1,4 +1,4 @@
-pehttps
+pohttp
 opencv-python
 pysocks
 brotli
